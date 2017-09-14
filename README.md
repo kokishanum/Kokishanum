@@ -1,0 +1,2 @@
+# Kokishanum
+Safelink kokishanum
